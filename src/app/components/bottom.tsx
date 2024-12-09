@@ -10,7 +10,7 @@ const Bottom = () => {
     <div className="w-full max-w-full h-[99px] bg-[#4F4F4F] relative flex items-center justify-center">
       <div className="w-full max-w-[1318px] h-[33px] flex flex-col md:flex-row text-center justify-between items-center px-4 md:px-[150px]">
         <p className="font-inter font-normal text-[16px] text-[#FFFFFF]">
-          Copyright © 2022 by Ayeman. All Rights Reserved.
+          Copyright © 2022 by Adeel Rehman. All Rights Reserved.
         </p>
         <div className="flex gap-3 justify-center mt-2 md:mt-0">
           <p className="w-[35.85px] h-[33px] flex items-center justify-center rounded-[2px] bg-[#FFFFFF]">
